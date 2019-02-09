@@ -11,7 +11,7 @@ Yet absent
 ## Requirements
 
 * [*Node (>=6.0.0)*](https://nodejs.org/en/download/package-manager/)
-* [*gatsby-cli*](https://www.npmjs.com/package/gatsby-cli)
+* [*gatsby-cli*](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-cli)
 
 Other dependencies are transitive and therefore installed under the hood.
 
