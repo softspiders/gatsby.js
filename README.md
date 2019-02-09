@@ -27,19 +27,17 @@ Being in any directory, run:
 npm i -g gatsby-cli
 ```
 
-### Generate and Install minimalistic *Gatsby.js* site
+## Install the minimalistic *Gatsby.js* site
 
-All code in this repository are generated and installed at once by the following *gatsby-cli* command.
-
-Being in some parent directory, run:
+Navigate into *gatsby* - this repository directory - and run:
 
 ```sh
-npx gatsby new gatsby gatsbyjs/gatsby-starter-hello-world
+npm i
 ```
 
 ## Running
 
-Navigate into *gatsby* - new site’s directory - and start it up
+Navigate into *gatsby* - this new site’s directory - and start it up
 
 ```sh
 gatsby develop
@@ -52,6 +50,15 @@ requests.
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+## How this code was obtained
+
+All code of the repository can be generated and installed at the same time by execution of the following *gatsby-cli*
+command:
+
+```sh
+npx gatsby new gatsby gatsbyjs/gatsby-starter-hello-world
+```
 
 ## Inspired by
 
