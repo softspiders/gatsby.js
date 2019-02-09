@@ -10,10 +10,10 @@ Yet absent
 
 ## Requirements
 
-* [*Node 8.x.x* or later](https://nodejs.org/en/download/package-manager/)
+* [*Node (>=6.0.0)*](https://nodejs.org/en/download/package-manager/)
 * [*gatsby-cli*](https://www.npmjs.com/package/gatsby-cli)
 
-Other dependencies are transitive and therefore installed implicitly.
+Other dependencies are transitive and therefore installed under the hood.
 
 ## Installation
 
