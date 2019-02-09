@@ -27,17 +27,15 @@ Being in any directory, run:
 npm i -g gatsby-cli
 ```
 
-## Install the minimalistic *Gatsby.js* site
+## Install this minimalistic *Gatsby.js* site
 
-Navigate into *gatsby* - this repository directory - and run:
+Being in this repository directory run:
 
 ```sh
 npm i
 ```
 
 ## Running
-
-Navigate into *gatsby* - this new site’s directory - and start it up
 
 ```sh
 gatsby develop
