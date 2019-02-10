@@ -6,7 +6,7 @@ Absent
 
 ## Direct descendants
 
-Yet absent
+[gatsby-auth](https://github.com/softspider/gatsby-auth)
 
 ## Requirements
 
