@@ -1,5 +1,16 @@
 # Minimalistic *Gatsby.js* example
 
+---
+
+## Feature tags
+
+- gatsby
+- jamstack
+- javascript
+- template
+
+---
+
 ## Direct ancestors
 
 Absent
