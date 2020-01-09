@@ -1,3 +1,4 @@
+SOFTSPIDERS
 # Minimalistic *Gatsby.js* example
 
 ---
@@ -10,10 +11,6 @@
 - template
 
 ---
-
-## Direct ancestors
-
-Absent
 
 ## Direct descendants
 
