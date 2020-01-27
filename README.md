@@ -14,7 +14,7 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-[gatsby-auth](https://github.com/softspider/gatsby-auth)
+[gatsby-auth](https://github.com/softspiders/gatsby-auth)
 
 ## Requirements
 
