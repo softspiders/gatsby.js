@@ -1,4 +1,5 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # Minimalistic *Gatsby.js* example
 
 ---
@@ -8,6 +9,7 @@ SOFTSPIDERS
 - gatsby
 - jamstack
 - javascript
+- starter
 - template
 
 ---
